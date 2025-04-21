@@ -2,7 +2,8 @@
 
 A responsive Netflix clone that replicates the look and feel of the original streaming platform. This project is built for learning purposes, focusing on UI/UX, API integration, and modern front-end development practices.
 
-![netflix-clone-preview](preview.png) <!-- Replace with actual image path -->
+![Image](https://github.com/user-attachments/assets/99e2529d-83e8-44c4-a42b-3309e79cf6c2)
+
 
 ## 🚀 Features
 
